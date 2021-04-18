@@ -1,0 +1,15 @@
+{criação de etiquetas}
+(pao)
+titulo:"pao",
+validade:12-05-2020,
+valor: R$30,00,
+sku:13AKL3
+
+(uva)
+titulo:"uva",
+validade:12-05-2020,
+valor: R$30,00,
+sku:13AKL4
+
+delete.(pao)
+
