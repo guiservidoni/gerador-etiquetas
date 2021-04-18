@@ -2,6 +2,8 @@
 <p>Um programa idealizado para que, a partir de um .txt de entrada de informações de produtos, gere etiquetas em .pdf para impressão.</p>
   <caption>Autores: Guilherme Servidoni - 727339 | Alisson Roberto Gomes - 725721</caption>
 
+<p>Um vídeo breve explicando a linguagem e o que foi implementado pode ser visto <a href="https://youtu.be/sjG67R4LwS0" target="_blank">aqui</a>.
+
 <h2>Pré-requisitos</h2>
 <ol>
   <li>Python 3</li>
