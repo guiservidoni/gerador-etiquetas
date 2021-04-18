@@ -1,5 +1,5 @@
 # gerador-etiquetas
-<p>Um programa idealizado para que, a partir de um .txt de entrada de informações de produtos, gere etiquetas em .pdf para impressão.</p>
+<p>Um programa idealizado para que, a partir de um .txt de entrada de informações de produtos, gere etiquetas em .pdf para impressão. Emula o ambiente de trabalho de um operador de supermercado, na parte de impressão de etiquetas.</p>
   <caption>Autores: Guilherme Servidoni - 727339 | Alisson Roberto Gomes - 725721</caption>
 
 <p>Um vídeo breve explicando a linguagem e o que foi implementado pode ser visto <a href="https://youtu.be/sjG67R4LwS0" target="_blank">aqui</a>.
@@ -46,4 +46,4 @@
 <p>Sim, o gerador de etiquetas ainda não gera etiquetas. Sem um analisador semântico, a geração de etiquetas torna-se seriamente comprometida, porém várias dependências que seriam necessárias já estão pré-implementadas, como o template da etiqueta em etiqueta.docx. O script novo.py contém o que poderia ser um canal para geração de etiquetas, transformando a entrada de input.txt em um arquivo .docx a partir do template, e a partir do arquivo .docx gerando um .pdf.</p>
 
 <h2>O que foi implementado</h2>
-<p>Um analisador léxico e um analisador sintático.</p>
+<p>Um analisador léxico e um analisador sintático. Disconexamente, um gerador de etiquetas.</p>
